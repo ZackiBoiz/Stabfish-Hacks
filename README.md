@@ -1,5 +1,5 @@
 # Stabfish-Hacks
-<hr>
+
 ### All of these hacks are made by ZackiBoiz.
 
 To use any of these hacks follow these directions:
@@ -10,5 +10,9 @@ To use any of these hacks follow these directions:
   - Paste in your developer console on Stabfish
   - Paste in your Stabfish URL (as a bookmarklet)
   - Paste in a new bookmark and run the bookmark on the Stabfish page
+  
+If there are ANY issues, post an issue.
+If you have a suggestion, post an issue.
+If you want to contibute to this repository, post a pull request.
 
 #### Copyright &copy; ZackiBoiz 2022
