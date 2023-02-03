@@ -15,4 +15,4 @@ To use any of these hacks follow these directions:
 ##### If you have a suggestion, post an issue.
 ##### If you want to contibute to this repository, post a pull request.
 
-#### Stabfish Hacks &copy; ZackiBoiz 2023
+#### &copy; 2023 ZackiBoiz All rights reserved.
