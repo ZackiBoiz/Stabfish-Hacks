@@ -1,4 +1,4 @@
-javascript: var unlocks = {
+var unlocks = {
   "unlockedHats": 37,
   "unlockedMasters": 58,
   "unlockedFaces": 45,
