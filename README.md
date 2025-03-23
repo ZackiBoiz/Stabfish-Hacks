@@ -1,3 +1,4 @@
+# ⚠️ These hacks are no longer maintained. ⚠️
 # Stabfish-Hacks
 
 ### All of these hacks are made by ZackiBoiz.
